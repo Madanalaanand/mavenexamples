@@ -6,7 +6,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>  
   <groupId>com.qt,devops</groupId>  
   <artifactId>sample1-app</artifactId>  
-  <version>1.0-sanpshot</version>  
+  <version>1.0-SANPSHOT</version>  
   
 <properties>
     <maven.compiler.source>11</maven.compiler.source>
