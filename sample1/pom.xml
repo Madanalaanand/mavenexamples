@@ -8,10 +8,9 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>sample1-app</artifactId>  
   <version>1.0-SANPSHOT</version>  
   
-<properties>
+  <properties>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
-
 
 </project>  
